@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/fakeemall.iml" filepath="$PROJECT_DIR$/.idea/fakeemall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pypoke/.idea/pypoke.iml" filepath="$PROJECT_DIR$/../pypoke/.idea/pypoke.iml" />
+    </modules>
+  </component>
+</project>
+

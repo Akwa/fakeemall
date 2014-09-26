@@ -1,0 +1,18 @@
+# precompiled Python code
+*.pyc
+__pycache__/
+
+# roms and saves
+*.gbc
+*.sav
+*.sgm
+
+# Dolphin directory options
+.directory
+
+# swap files
+*.swp
+*.swo
+
+# PyCharm project files
+workspace.xml
