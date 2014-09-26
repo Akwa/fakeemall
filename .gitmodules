@@ -1,0 +1,3 @@
+[submodule "pypoke"]
+	path = pypoke
+	url = git@github.com:Akwa/pypoke.git
